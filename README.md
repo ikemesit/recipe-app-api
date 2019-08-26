@@ -1,1 +1,1 @@
-# fin-app-api
+# recipe-app-api
